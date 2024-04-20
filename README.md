@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/<ваш_логин>/<ваш_репозиторий>.git
+git clone https://github.com/Worton1720/FreeGPTelegramBot.git
 ```
 
 2. Установите зависимости:
